@@ -8,6 +8,7 @@ packages = [{include = "python_win_ui"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+ttkbootstrap = "^1.10.1"
 
 
 [build-system]
